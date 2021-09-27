@@ -1,0 +1,15 @@
+.header{
+text-align: center;
+background-color: #05386B ;
+color: wheat;
+max-height: 100%;
+padding: 7px;
+}
+
+.header h2:hover{
+    color: teal;
+}
+
+.header h4:hover{
+    color: teal;
+}
